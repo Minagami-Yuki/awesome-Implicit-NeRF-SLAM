@@ -515,6 +515,7 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - Efficient semantic Gaussian splatting SLAM: Dynamic pruning and densification for lightweight mapping based on rendering contribution, *RAS, 2026*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889026003660)]
 - Adaptive Gaussian Splatting SLAM: Robust Dense Mapping with Probabilistic Optimization, *IOTJ, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11666903/)]
 - **PDGS-SLAM**: Photorealistic Dense Gaussian Splatting SLAM for Dynamic Scenes, *RAL, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11661757)]
+- **MS-SLAM**: Memory-augmented 3D Gaussian splatting SLAM for efficient robotic applications, *RAL, 2026*. [[Paper](https://link.springer.com/article/10.1007/s00371-026-04698-2)]
 
 ### Multimodal Gaussian Splatting SLAM
 - **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2401.14857.pdf)] [[Code](https://github.com/sheng00125/LIV-GaussMap)]
