@@ -230,6 +230,8 @@ For an overview of 3D Gaussian Splatting papers, checkout the Repository ([aweso
 - **CHOW-SLAM**: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.01914)] [[Code](https://github.com/jinjidexiaohuoban/CHOW-SLAM)]
 - **PMET-SLAM**: Neural Implicit RGB-D SLAM With Photorealistic Mapping and Efficient Tracking, *TITS, 2026*. [[Paper](https://ieeexplore.ieee.org/abstract/document/11663249)] [[Code](https://github.com/atat1010/code)]
 - **RoSe-SLAM**: Robust Semantic-Aware Gaussian Splatting SLAM from Dynamic Monocular Videos, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2608.29003)]
+- **LightSplat**: Real-Time High-Fidelity 3D Gaussian SLAM with Loop Closure, *IROS, 2026*. [[Paper](https://arxiv.org/pdf/2609.07274)]
+
 
 ---
 
